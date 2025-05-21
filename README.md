@@ -1,6 +1,6 @@
 # Hi, I'm Yvonne Ngugi 👋
 
-🚀 Aspiring DevOps Engineer | Python Developer | Cloud Enthusiast
+🚀 DevOps Engineer | Python Developer | Cloud Enthusiast
 
 - 🌐 Building cloud infrastructure with Terraform & AWS
 - 🔁 Automating CI/CD pipelines using GitHub Actions
